@@ -18,7 +18,7 @@ import techguns.TGArmors;
 import techguns.TGuns;
 import techguns.Techguns;
 
-public class ZombieSoldier extends GenericNPCUndead {
+public class ZombieSoldier {
 
 	public static final ResourceLocation LOOT = new ResourceLocation(Techguns.MODID, "entities/zombiesoldier");
 	
