@@ -19,7 +19,7 @@ import techguns.TGuns;
 import techguns.Techguns;
 import techguns.items.armors.GenericArmorMultiCamo;
 
-public class ZombiePoliceman extends GenericNPCUndead {
+public class ZombiePoliceman {
 
 	public static final ResourceLocation LOOT = new ResourceLocation(Techguns.MODID, "entities/zombiepoliceman");
 	
